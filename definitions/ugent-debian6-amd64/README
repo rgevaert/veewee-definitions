@@ -1,0 +1,5 @@
+First ugent vagrant basebox for Debian Squeeze.
+
+Notes:
+- We don't use rubygems from source but the package from Sid.
+- We install puppet from our own Debian repository.
